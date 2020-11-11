@@ -18,6 +18,17 @@ console.log('sddsff')
 // sarasas (array) = []
 // objektai (object) = {}
 
+// array pvz.: const pazymiai = [1,2,5,10,10,5,8]
+// array vieta eileje prasideda 0,1,2,3,4,5,6
+
+// SVARBU
+// ---\"--- \ignoruoja sekanti simboli, t.y. priskiria turiniui, ne sintaksei
+// ---\ --- \galima naudoti kai per kelias eilutes (uzdeti gale), kad ignoruotu Enter
+// ---\n\---  graziai per eilutes isdelioja
+// ---``--- back'tickai is abieju pusiu graziai sudelioja teksta
+
+// SAKINIO KONSTRAVIMAS
+// `${tekstas} ${kintamasis} ${ir t.t.}`
 
 
 const pirmasisskaicius = 10
