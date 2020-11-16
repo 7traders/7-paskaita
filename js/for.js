@@ -162,3 +162,9 @@ console.log(rezultatas);
 
 
 
+
+
+
+
+
+
