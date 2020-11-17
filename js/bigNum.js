@@ -46,4 +46,16 @@ console.log(bigNum(Infinity));
 
 
 
+function sum(a, b) { return a + b }
+
+console.log(bigNum(sum));
+console.log(bigNum([sum]));
+
+console.log(bigNum({}));
+console.log(bigNum([{}, {}, {}]));
+
+
+
+
+
 
